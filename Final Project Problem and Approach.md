@@ -1,5 +1,7 @@
 # Final Project Problem Statement & Approach
 
+---
+
 ### Problem Statement
 
 **Objective:** Develop multiple predictive models to estimate an individual’s salary based on selected personal and professional attributes.  
