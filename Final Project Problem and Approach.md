@@ -4,7 +4,7 @@
 
 ### Problem Statement
 
-**Objective:** Develop multiple predictive models to estimate an individual’s salary based on selected personal and professional attributes.  
+**Objective:** Develop two predictive models to estimate an individual’s salary based on selected personal and professional attributes.  
 **Target Variable:** **Salary** (continuous)  
 **Features:** **Age**, **Education Level**, **Years of Experience**  
 
