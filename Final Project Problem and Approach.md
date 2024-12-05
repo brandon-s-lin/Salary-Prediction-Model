@@ -76,7 +76,7 @@ The solution involves applying supervised machine learning regression techniques
   - Higher R² suggests that our chosen features and model explain the variance in Salary well.
 
 - **Comparative Analysis:**  
-  Compare the performance of the baseline (Linear Regression) and the advanced model (Random Forest) to confirm if the latter provides a meaningful improvement.
+  Compare the performance of the baseline (Ridge Regression) and the advanced model (Random Forest) to confirm if the latter provides a meaningful improvement.
 
 ---
 
